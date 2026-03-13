@@ -1,9 +1,15 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagrams={}
+        groups = defaultdict(list)
+
         for word in strs:
-            key="".join(sorted(word))
-            if key not in anagrams:
-                anagrams[key]=[]
-            anagrams[key].append(word)
-        return list(anagrams.values())
+            count = [0] * 26
+
+            for c in word:
+                index = ord(c) - ord('a')
+                count[index] += 1
+
+            key = tuple(count)
+            groups[key].append(word)
+
+        return list(groups.values())
