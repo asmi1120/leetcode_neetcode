@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmi1120/leetcode_neetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmi1120/leetcode_neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmi1120/leetcode_neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
