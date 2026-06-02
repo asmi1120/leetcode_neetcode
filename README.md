@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/asmi1120/leetcode_neetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmi1120/leetcode_neetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/asmi1120/leetcode_neetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmi1120/leetcode_neetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0088-merge-sorted-array) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/asmi1120/leetcode_neetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
