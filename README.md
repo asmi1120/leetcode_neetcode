@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmi1120/leetcode_neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmi1120/leetcode_neetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmi1120/leetcode_neetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asmi1120/leetcode_neetcode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
