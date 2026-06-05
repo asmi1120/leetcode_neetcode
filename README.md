@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/asmi1120/leetcode_neetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmi1120/leetcode_neetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/asmi1120/leetcode_neetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/asmi1120/leetcode_neetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asmi1120/leetcode_neetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/asmi1120/leetcode_neetcode/tree/master/0704-binary-search) |
