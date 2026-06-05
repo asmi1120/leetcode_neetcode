@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/asmi1120/leetcode_neetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/asmi1120/leetcode_neetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1929-concatenation-of-array) |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/asmi1120/leetcode_neetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asmi1120/leetcode_neetcode/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/asmi1120/leetcode_neetcode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
