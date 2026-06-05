@@ -3,7 +3,7 @@ class Solution:
         l=0
         r=len(nums)-1
         while l<=r:
-            mid=int((l+(r))/2)
+            mid=int(l+(r-l)/2)
             if nums[mid]==target:
                 return mid
             elif nums[mid] < target:
