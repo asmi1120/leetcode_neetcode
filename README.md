@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/asmi1120/leetcode_neetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmi1120/leetcode_neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/asmi1120/leetcode_neetcode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/asmi1120/leetcode_neetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asmi1120/leetcode_neetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmi1120/leetcode_neetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
