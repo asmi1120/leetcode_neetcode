@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/asmi1120/leetcode_neetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/asmi1120/leetcode_neetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmi1120/leetcode_neetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asmi1120/leetcode_neetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmi1120/leetcode_neetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
