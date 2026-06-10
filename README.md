@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmi1120/leetcode_neetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/asmi1120/leetcode_neetcode/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/asmi1120/leetcode_neetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/asmi1120/leetcode_neetcode/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/asmi1120/leetcode_neetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1929-concatenation-of-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/asmi1120/leetcode_neetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
