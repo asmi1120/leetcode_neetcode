@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/asmi1120/leetcode_neetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/asmi1120/leetcode_neetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmi1120/leetcode_neetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/asmi1120/leetcode_neetcode/tree/master/1544-make-the-string-great) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asmi1120/leetcode_neetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/asmi1120/leetcode_neetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/asmi1120/leetcode_neetcode/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/asmi1120/leetcode_neetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
