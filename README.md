@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/asmi1120/leetcode_neetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/asmi1120/leetcode_neetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/asmi1120/leetcode_neetcode/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/asmi1120/leetcode_neetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/asmi1120/leetcode_neetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
