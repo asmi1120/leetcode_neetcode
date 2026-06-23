@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asmi1120/leetcode_neetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/asmi1120/leetcode_neetcode/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asmi1120/leetcode_neetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asmi1120/leetcode_neetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asmi1120/leetcode_neetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
 |  |
