@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asmi1120/leetcode_neetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/asmi1120/leetcode_neetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/asmi1120/leetcode_neetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmi1120/leetcode_neetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asmi1120/leetcode_neetcode/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/asmi1120/leetcode_neetcode/tree/master/0875-koko-eating-bananas) |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/asmi1120/leetcode_neetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
