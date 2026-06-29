@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/asmi1120/leetcode_neetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/asmi1120/leetcode_neetcode/tree/master/0402-remove-k-digits) |
+| [0567-permutation-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/asmi1120/leetcode_neetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asmi1120/leetcode_neetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/asmi1120/leetcode_neetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/asmi1120/leetcode_neetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
