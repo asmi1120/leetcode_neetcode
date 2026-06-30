@@ -5,16 +5,22 @@ class Solution:
         """
         i=m-1
         j=n-1
-        p=m+n-1
-        while i>=0 and j>=0:
-            if nums1[i]>nums2[j]:
+        p=n+m-1
+        while j>=0 and i>=0:
+            if nums1[i]<nums2[j]:
+                nums1[p]=nums2[j]
+                p-=1
+                j-=1
+            elif nums1[i]>nums2[j]:
                 nums1[p]=nums1[i]
+                p-=1
                 i-=1
             else:
                 nums1[p]=nums2[j]
+                p-=1
                 j-=1
+        while j>=0:
+            nums1[p]=nums2[j]
             p-=1
-        nums1[:j+1] = nums2[:j+1]   
+            j-=1
 
-
-        
