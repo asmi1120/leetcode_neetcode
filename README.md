@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/asmi1120/leetcode_neetcode/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/asmi1120/leetcode_neetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/asmi1120/leetcode_neetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/asmi1120/leetcode_neetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/asmi1120/leetcode_neetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/asmi1120/leetcode_neetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/asmi1120/leetcode_neetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/asmi1120/leetcode_neetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asmi1120/leetcode_neetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmi1120/leetcode_neetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
