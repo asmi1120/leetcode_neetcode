@@ -1,17 +1,14 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         r=[]
-        candidates.sort()
-        def b(s,path,remain):
-            if remain==0:
-                r.append(path[:])
-                return
+        def b(s,path):
+            if sum(path)>=target: return
             for i in range(s,len(candidates)):
-                if candidates[i]>remain:
-                    break
                 path.append(candidates[i])
-                b(i,path,remain-candidates[i])
+                if sum(path)==target:
+                    r.append(path[:])
+                b(i,path)
                 path.pop()
-        b(0,[],target)
+        b(0,[])
         return r
         
