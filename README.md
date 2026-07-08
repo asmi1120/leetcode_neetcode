@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/asmi1120/leetcode_neetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/asmi1120/leetcode_neetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0503-next-greater-element-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/asmi1120/leetcode_neetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/asmi1120/leetcode_neetcode/tree/master/0567-permutation-in-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/asmi1120/leetcode_neetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asmi1120/leetcode_neetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/asmi1120/leetcode_neetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/asmi1120/leetcode_neetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/asmi1120/leetcode_neetcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/asmi1120/leetcode_neetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmi1120/leetcode_neetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
@@ -367,4 +372,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/asmi1120/leetcode_neetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/asmi1120/leetcode_neetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
