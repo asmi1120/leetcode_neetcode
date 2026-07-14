@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmi1120/leetcode_neetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/asmi1120/leetcode_neetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/asmi1120/leetcode_neetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmi1120/leetcode_neetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/asmi1120/leetcode_neetcode/tree/master/0136-single-number) |
 ## Greedy
 |  |
 | ------- |
