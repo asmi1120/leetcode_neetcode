@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/asmi1120/leetcode_neetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/asmi1120/leetcode_neetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/asmi1120/leetcode_neetcode/tree/master/0078-subsets) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/asmi1120/leetcode_neetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/asmi1120/leetcode_neetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/asmi1120/leetcode_neetcode/tree/master/1929-concatenation-of-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/asmi1120/leetcode_neetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/asmi1120/leetcode_neetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/asmi1120/leetcode_neetcode/tree/master/1672-richest-customer-wealth) |
