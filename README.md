@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/asmi1120/leetcode_neetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/asmi1120/leetcode_neetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/asmi1120/leetcode_neetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asmi1120/leetcode_neetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/asmi1120/leetcode_neetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/asmi1120/leetcode_neetcode/tree/master/0053-maximum-subarray) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/asmi1120/leetcode_neetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/asmi1120/leetcode_neetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/asmi1120/leetcode_neetcode/tree/master/0074-search-a-2d-matrix) |
 | [1314-matrix-block-sum](https://github.com/asmi1120/leetcode_neetcode/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/asmi1120/leetcode_neetcode/tree/master/1672-richest-customer-wealth) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/asmi1120/leetcode_neetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/asmi1120/leetcode_neetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/asmi1120/leetcode_neetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/asmi1120/leetcode_neetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmi1120/leetcode_neetcode/tree/master/0150-evaluate-reverse-polish-notation) |
