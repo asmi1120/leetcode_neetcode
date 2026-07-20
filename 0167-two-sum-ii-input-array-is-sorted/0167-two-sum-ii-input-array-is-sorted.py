@@ -3,11 +3,11 @@ class Solution:
         l=0
         r=len(numbers)-1
         while l<r:
-            sum1=numbers[l]+numbers[r]
-            if sum1==target:
+            t=numbers[l]+numbers[r]
+            if t==target:
                 return [l+1,r+1]
-            elif sum1>target:
-                r-=1
-            else:
+            elif t<target:
                 l+=1
-            
+            else:
+                r-=1
+        return []
